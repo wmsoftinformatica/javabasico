@@ -4,6 +4,7 @@ public class Principal {
 
 	static String olaMundo = "ola mundo!!!";
 	static String olaMarte = "ola marte!!!";
+	static String olaLua = "ola lua!!!";
 	
 		
 	public static void main(String[] args) {
@@ -12,6 +13,7 @@ public class Principal {
 
 		auxiliar.exibirMenssagem(olaMundo);
 		auxiliar.exibirMenssagem(olaMarte);
+		auxiliar.exibirMenssagem(olaLua);
 
 	}
 
